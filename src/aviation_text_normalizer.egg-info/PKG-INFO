@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: aviation-text-normalizer
+Version: 0.1.0
+Summary: Normalize aviation ATC/RTF text into readable (spoken) or canonical (code) forms.
+Requires-Python: >=3.10

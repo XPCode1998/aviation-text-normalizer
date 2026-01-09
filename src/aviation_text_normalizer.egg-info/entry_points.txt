@@ -1,0 +1,2 @@
+[console_scripts]
+atc-normalize = aviation_text_normalizer.cli:main
